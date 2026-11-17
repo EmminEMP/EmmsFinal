@@ -1,11 +1,11 @@
-##Pre-Release v0.0.0
+## Pre-Release v0.0.0
 - Complete reskinning of all Basechar. sprites to MY/NA (These are rough, I plan to replace them after a proper Moveset is built)
 - Added Movement *Wavedash*, a 6frame replacement to Forward and Backward dash. Quicker startup that shrinks hutbox, but with no Grab immunity nor Distance variance
 - Added Attack *Lowsweep*, 4frame Grounded attack
 - Added Attack *Bar*, 14frame Aerial attack. Slow guard break, resets aerial momentum in exchange for a very strong hit & victim hitlag
 - Removed *Super Dash* and *Super Jump*, MY/NA don't need alla that.
 - Added Sritework for unimplemented moves
-  
-#Plans
+
+# Plans
 - Teleport Movement option
 - *Dysmorphia* Special attack, with Backwards and Forwards variance
