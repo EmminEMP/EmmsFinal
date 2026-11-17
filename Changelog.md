@@ -5,8 +5,8 @@
 - Added Attack *Bar*, 14frame Aerial attack. Slow guard break, resets aerial momentum in exchange for a very strong hit & victim hitlag
 - Removed *Super Dash* and *Super Jump*, MY/NA don't need alla that.
 - Added Sritework for unimplemented moves
--   *Dysmorphia*
--   *B8kr*
+  - *Dysmorphia*
+  - *B8kr*
 ## Plans
 - Teleport Movement option to replace Super Dash and Super Jump (This might be hard to balance)
 - *Dysmorphia* Special attack, with Backwards and Forwards variance
