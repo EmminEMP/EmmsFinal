@@ -4,9 +4,13 @@
 - Added Attack *Lowsweep*, 4frame Grounded attack
 - Added Attack *Bar*, 14frame Aerial attack. Slow guard break, resets aerial momentum in exchange for a very strong hit & victim hitlag
 - Removed *Super Dash* and *Super Jump*, MY/NA don't need alla that.
-- Added Sritework for unimplemented moves
+- Added Spritework for unimplemented moves
   - *Dysmorphia*
-  - *B8kr*
+  - *Br8kr*
+  - *Slideslash*
 ## Plans
 - Teleport Movement option to replace Super Dash and Super Jump (This might be hard to balance)
-- *Dysmorphia* Special attack, with Backwards and Forwards variance
+- *Dysmorphia* Special, Backwards and Forwards stab
+- *Br8kr* Special, Large overhead swing
+- *Slideslash* Attack, Grounded uppercut swing w/ movement variance
+- *Extend* Special, Aerial command grab
